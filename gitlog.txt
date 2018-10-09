@@ -1,0 +1,23 @@
+commit 87c98b4540e22e59397fd88434180ff4a4d762c6
+Author: heve0013 <heve0013@ad.umu.se>
+Date:   Tue Oct 9 14:29:16 2018 +0200
+
+    made better Turtles reference
+
+commit dce40ac8c4e6492e72983b2b3bac71ee9d1f68ce
+Author: heve0013 <heve0013@ad.umu.se>
+Date:   Tue Oct 9 14:11:56 2018 +0200
+
+    asked about the moon
+
+commit f8a4c3665feeef6daea74af379bd49c30b637454
+Author: heve0013 <heve0013@ad.umu.se>
+Date:   Tue Oct 9 14:10:16 2018 +0200
+
+    changed one line, made Turtles in Time reference
+
+commit a528c8d5985b279c047023d66dcd034d442ecca6
+Author: heve0013 <heve0013@ad.umu.se>
+Date:   Tue Oct 9 13:54:11 2018 +0200
+
+    Created the file mars.txt
